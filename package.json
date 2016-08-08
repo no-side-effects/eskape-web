@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/siddhant0509/eskape-web/issues"
   },
-  "homepage": "https://github.com/siddhant0509/eskape-web#readme"
+  "homepage": "https://github.com/siddhant0509/eskape-web#readme",
+  "dependencies": {
+    "express": "4.14.0",
+    "react": "15.3.0",
+    "react-redux": "4.4.5",
+    "redux": "3.5.2",
+    "underscore": "1.8.3"
+  }
 }
